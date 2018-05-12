@@ -132,6 +132,5 @@ Writeup of Vulnhub machine Pluck by k4nj1d.
 
     * A modo de conclusión decir que es una máquina muy entretenida que tiene mucha documentación y que permite aprender mucho sobre LFI, ejecución de consolas mediante Vi y elevación de privilegios.
 
-
-kanjid
 Happy Hacking!
+K4nj1d
