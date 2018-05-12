@@ -2,8 +2,6 @@
 Writeup of Vulnhub machine Pluck by k4nj1d.
 #VULNHUB.PLUCK
 
-### ENUMERACIÓN
-
 * Descubrimento de la dirección IP de la máquina. Para realizar este asunto hay que lanzar un "script" de Nmap que permita hacer el descubrimiento de los host que se encuentra en la LAN.
 
     ```
